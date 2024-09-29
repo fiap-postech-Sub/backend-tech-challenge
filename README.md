@@ -52,7 +52,7 @@ Para começar a usar o projeto, siga os passos abaixo:
 Clone o projeto para o seu ambiente de desenvolvimento usando o comando git clone:
 
 ```bash
-  git clone https://github.com/GRUPO-G68/backend-tech-challenge.git
+  git clone https://github.com/fiap-postech-Sub/backend-tech-challenge.git
 ```
 
 #### 2. Entre no diretório do projeto
@@ -162,8 +162,3 @@ Atualize a linha 18 do arquivo `node-fiap-deployment.yaml` com o nome da imagem 
   "topic": "payment"
 }
 ```
-
-## D. Link video demonstrativo.
-
-#### link video youtube.
-https://youtu.be/u0owNQ7n658
